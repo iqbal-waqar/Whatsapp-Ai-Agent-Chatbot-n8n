@@ -1,0 +1,8 @@
+﻿Name,Notes,Assignee,Status
+Order Issue: UB021,Customer reported missing laces in UltraBoost 21 order.,Waqar Iqbal,Todo
+Production Delay: SS002,Delay in production for Superstar with gold logo.,Waqar Iqbal,In progress
+Shipping Query: NMD001,Customer inquired about shipping status for NMD_R1.,Waqar Iqbal,Done
+Customization Request: ST001,Request to change heel tab color on Stan Smith order.,Waqar Iqbal,Todo
+Order Cancellation: FL011,Customer requested cancellation for Forum Low order.,Waqar Iqbal,Done
+Shoe quality,I want a refund,Waqar Iqbal,Todo
+Inquiry about canceled order id5,User asked why order (id5) was canceled. Need to investigate cancellation reason.,Waqar Iqbal,Todo
