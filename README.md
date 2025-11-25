@@ -57,12 +57,6 @@ AI-powered WhatsApp customer support for Adidas using n8n, Groq AI, and Airtable
 - "What's your return policy?"
 - "I need help with a refund"
 
-## 🛠️ Troubleshooting
-
-**Duplicate Messages**: Check IF node routing
-**API Errors**: Verify all credentials
-**No Response**: Confirm webhook setup
-
 ---
 
 *Replace all placeholder IDs with your actual values*
