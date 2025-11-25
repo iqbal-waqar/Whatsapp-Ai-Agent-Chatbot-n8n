@@ -1,6 +1,6 @@
 # Adidas WhatsApp AI Support Agent
 
-AI-powered WhatsApp customer support for Adidas using n8n, Groq AI, and Airtable.
+AI-powered WhatsApp customer support for Adidas using n8n, Groq AI API, and Airtable.
 
 ## 🚀 Features
 
